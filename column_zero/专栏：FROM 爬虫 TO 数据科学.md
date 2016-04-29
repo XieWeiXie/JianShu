@@ -14,8 +14,11 @@
 走过许多弯路，可能也还在继续走着弯路。
 
 个人联系方式：
+
 [weibo: 乌小小申](http://weibo.com/1948244870/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
+
 [Github: wuxiaoshen](https://github.com/wuxiaoxiaoshen)
+
 Email: wuxiaoshen@shu.edu.cn
 
 # 1
@@ -56,6 +59,7 @@ Email: wuxiaoshen@shu.edu.cn
 - Django
 
 # 3
+
 |序号|专栏体系|解释|
 |:--|
 |01|python 基础知识学习汇总|基础|
@@ -70,6 +74,7 @@ Email: wuxiaoshen@shu.edu.cn
 |10|scrapy|
 |11|scrapy + Mongodb|
 |12|scrapy + Mongodb + redis|
+
 
 > 数据科学专栏...敬请期待
 
