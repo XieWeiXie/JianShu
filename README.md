@@ -8,5 +8,15 @@
 - [专栏003：文件操作](https://github.com/wuxiaoxiaoshen/JianShu_special_column/blob/master/column_three/%E4%B8%93%E6%A0%8F%EF%BC%9A003%EF%BC%9A%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%20-%20%E9%A9%AC%E5%85%8B%E9%A3%9E%E8%B1%A1%20-%20%E4%B8%93%E4%B8%BA%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0%E6%89%93%E9%80%A0%E7%9A%84Markdown%E7%BC%96%E8%BE%91%E5%99%A8.pdf)  
 - [专栏004：requests](https://github.com/wuxiaoxiaoshen/JianShu_special_column/blob/master/column_four/%E4%B8%93%E6%A0%8F%EF%BC%9A004%EF%BC%9A%E7%BD%91%E9%A1%B5%E4%B8%8B%E8%BD%BD%E5%99%A8%E7%9A%84%E4%BD%BF%E7%94%A8%20-%20%E9%A9%AC%E5%85%8B%E9%A3%9E%E8%B1%A1%20-%20%E4%B8%93%E4%B8%BA%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0%E6%89%93%E9%80%A0%E7%9A%84Markdown%E7%BC%96%E8%BE%91%E5%99%A8.pdf)  
 - [专栏005：BeautifulSoup](https://github.com/wuxiaoxiaoshen/JianShu_special_column/blob/master/column_five/%E4%B8%93%E6%A0%8F%EF%BC%9A005%EF%BC%9ABeautiful%20Soup%20%E7%9A%84%E4%BD%BF%E7%94%A8%20-%20%E9%A9%AC%E5%85%8B%E9%A3%9E%E8%B1%A1%20-%20%E4%B8%93%E4%B8%BA%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0%E6%89%93%E9%80%A0%E7%9A%84Markdown%E7%BC%96%E8%BE%91%E5%99%A8.pdf)
-
+- [专栏006：实战爬取博客](https://github.com/wuxiaoxiaoshen/JianShu_special_column/tree/master/column_six)
+- [专栏007：xpath使用及其实战](https://github.com/wuxiaoxiaoshen/JianShu_special_column/tree/master/column_seven)
+- [专栏008：MySQLdb及其银行模拟转账](https://github.com/wuxiaoxiaoshen/JianShu_special_column/tree/master/column_eight)
+- [专栏009：高评分电影都在这里](https://github.com/wuxiaoxiaoshen/JianShu_special_column/tree/master/column_nine)
+- [专栏010：SQL vs No SQL](https://github.com/wuxiaoxiaoshen/JianShu_special_column/tree/master/column_ten)
+- [专栏011：Elasticsearch的使用](https://github.com/wuxiaoxiaoshen/JianShu_special_column/tree/master/column_eleven)
+- [专栏012：没时间解释了，快使用sqlalchemy](https://github.com/wuxiaoxiaoshen/JianShu_special_column/tree/master/column_twelve)
+- [专栏013：我要你知道实时票房](https://github.com/wuxiaoxiaoshen/JianShu_special_column/tree/master/column_thirteen)
+- [专栏014：客官，你要的实战我给你](https://github.com/wuxiaoxiaoshen/JianShu_special_column/tree/master/column_fourteen)
+- [专栏015：重构“你要的实战篇"](https://github.com/wuxiaoxiaoshen/JianShu_special_column/tree/master/column_fifteen)
+- [专栏016：功能强大的“图片下载器”](https://github.com/wuxiaoxiaoshen/JianShu_special_column/tree/master/column_sixteen)
  
